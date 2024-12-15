@@ -12,7 +12,7 @@ Asisten suara sederhana yang dibangun menggunakan Python. Asisten ini dapat mend
   
 - **Time**: Asisten dapat memberi tahu waktu saat ini.
 - **Open Website**: Asisten dapat membuka situs web yang disebutkan.
-- 
+
  ![Assistant Voice](Screenshot/open_website.png)
 
 - **Close**: Anda dapat menghentikan asisten dan keluar dari program dengan perintah suara "Thanks for helping.
