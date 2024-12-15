@@ -7,8 +7,10 @@ Asisten suara sederhana yang dibangun menggunakan Python. Asisten ini dapat mend
 - **Perintah Suara**: Asisten mendengarkan perintah melalui mikrofon dan merespons suara. "Hello"
 - **Teks-ke-Suara**: Asisten memberikan respons suara menggunakan pustaka pyttsx3.
 - **Play Music**: Asisten dapat mencari lagu di YouTube berdasarkan nama yang disebutkan.
+  ![Assistant Voice](Screenshot/play_music.png)
 - **Time**: Asisten dapat memberi tahu waktu saat ini.
 - **Open Website**: Asisten dapat membuka situs web yang disebutkan.
+- ![Assistant Voice](Screenshot/open_website.png)
 - **Close**: Anda dapat menghentikan asisten dan keluar dari program dengan perintah suara "Thanks for helping.
 
 ## Prasyarat
